@@ -1,4 +1,7 @@
 # apnacollege--demo
-This is my first repository while watching youtube in one vedio.
+
+This is my first repository while watching youtube in one vedeo.
 <br>
-author--rashmi
+author--Rashmi
+My study
+
